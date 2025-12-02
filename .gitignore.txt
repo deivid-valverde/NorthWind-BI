@@ -1,0 +1,11 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+bin/
+obj/
+
+# SQL Server DB Project
+*.mdf
+*.ldf
+*.ndf

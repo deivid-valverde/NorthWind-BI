@@ -1,0 +1,89 @@
+1/12/2025 23:37:50	Este registro contiene información acerca de la operación de importación de esquema en el proyecto 'NorthWindBI' del equipo 'NPS-003' por el usuario 'david.valverde'.
+1/12/2025 23:37:50	Se inició la importación del esquema de la base de datos.
+1/12/2025 23:38:11	Recopilando credenciales de la base de datos
+1/12/2025 23:38:11	Recopilando opciones de base de datos
+1/12/2025 23:38:11	Recopilando la opción de configuración de ámbito de la base de datos genérica
+1/12/2025 23:38:11	Recopilando usuarios
+1/12/2025 23:38:11	Recopilando roles
+1/12/2025 23:38:11	Recopilando roles de aplicación
+1/12/2025 23:38:11	Recopilando pertenencias a roles
+1/12/2025 23:38:11	Recopilando grupos de archivos
+1/12/2025 23:38:11	Recopilando catálogos de texto completo
+1/12/2025 23:38:11	Recopilando ensamblados
+1/12/2025 23:38:11	Recopilando certificados
+1/12/2025 23:38:11	Recopilando claves asimétricas
+1/12/2025 23:38:11	Recopilando claves simétricas
+1/12/2025 23:38:11	Recopilando claves simétricas cifradas
+1/12/2025 23:38:11	Recopilando esquemas
+1/12/2025 23:38:11	Recopilando colecciones de esquemas XML
+1/12/2025 23:38:11	Recopilando tipos de datos definidos por el usuario
+1/12/2025 23:38:11	Recopilando tipos definidos por el usuario
+1/12/2025 23:38:11	Recopilando tipos de tabla
+1/12/2025 23:38:11	Recopilando claves únicas para tipos de tabla
+1/12/2025 23:38:11	Recopilando claves principales para tipos de tabla
+1/12/2025 23:38:12	Recopilando índices para tipos de tablas
+1/12/2025 23:38:12	Recopilando restricciones CHECK para tipos de tabla
+1/12/2025 23:38:12	Recopilando restricciones DEFAULT para tipos de tabla
+1/12/2025 23:38:12	Recopilando funciones de partición
+1/12/2025 23:38:12	Recopilando esquemas de partición
+1/12/2025 23:38:12	Recopilando funciones
+1/12/2025 23:38:12	Recopilando funciones cifradas
+1/12/2025 23:38:12	Recopilando agregados
+1/12/2025 23:38:12	Recopilando procedimientos
+1/12/2025 23:38:13	Recopilando procedimientos cifrados
+1/12/2025 23:38:13	Recopilando tablas
+1/12/2025 23:38:13	Recopilando claves principales
+1/12/2025 23:38:13	Recopilando restricciones UNIQUE
+1/12/2025 23:38:13	Recopilando claves externas
+1/12/2025 23:38:13	Recopilando restricciones DEFAULT
+1/12/2025 23:38:13	Recopilando restricciones CHECK
+1/12/2025 23:38:13	Recopilando vistas
+1/12/2025 23:38:13	Recopilando vistas cifradas
+1/12/2025 23:38:13	Recopilando índices
+1/12/2025 23:38:13	Recopilando estadísticas
+1/12/2025 23:38:13	Recopilando listas de palabras irrelevantes de índices de texto completo
+1/12/2025 23:38:13	Recopilando listas de propiedades de búsqueda
+1/12/2025 23:38:13	Recopilando propiedades de búsqueda
+1/12/2025 23:38:13	Recopilando índices de texto completo
+1/12/2025 23:38:13	Recopilando índices de almacenamiento de columnas
+1/12/2025 23:38:13	Recopilando índices espaciales
+1/12/2025 23:38:13	Recopilando índices XML
+1/12/2025 23:38:13	Recopilando índices XML selectivos
+1/12/2025 23:38:13	Recopilando desencadenadores cifrados
+1/12/2025 23:38:13	Recopilando desencadenadores
+1/12/2025 23:38:13	Recopilando DDL triggers cifrados y de CLR
+1/12/2025 23:38:13	Recopilando DDL triggers
+1/12/2025 23:38:13	Creación de la restricción perimetral en curso
+1/12/2025 23:38:13	Recopilando sinónimos
+1/12/2025 23:38:13	Recopilando valores predeterminados
+1/12/2025 23:38:13	Recopilando enlaces UDDT de restricción de datos
+1/12/2025 23:38:13	Recopilando reglas
+1/12/2025 23:38:13	Recopilando enlaces UDDT de restricción de datos
+1/12/2025 23:38:13	Recopilando tipos de mensaje
+1/12/2025 23:38:13	Recopilando colas
+1/12/2025 23:38:13	Recopilando contratos
+1/12/2025 23:38:13	Recopilando servicios
+1/12/2025 23:38:13	Recopilando notificaciones de eventos
+1/12/2025 23:38:13	Recopilando enlaces de servicio remoto
+1/12/2025 23:38:13	Recopilando prioridades de Broker
+1/12/2025 23:38:13	Recopilando firmas
+1/12/2025 23:38:13	Recopilando opciones de compresión
+1/12/2025 23:38:13	Recopilando tipos de secuencia
+1/12/2025 23:38:13	Recopilando directivas de seguridad
+1/12/2025 23:38:13	Recopilar claves de cifrado de columna
+1/12/2025 23:38:13	Recopilando claves maestras de columna
+1/12/2025 23:38:13	Recopilando orígenes de datos externos
+1/12/2025 23:38:13	Recopilando formatos de archivo externos
+1/12/2025 23:38:13	Recopilando tablas externas
+1/12/2025 23:38:13	Recopilando opciones de compresión de índice XML
+1/12/2025 23:38:13	Recopilando permisos de base de datos
+1/12/2025 23:38:13	Recopilando propiedades extendidas
+1/12/2025 23:38:13	Recopilando ensamblados
+1/12/2025 23:38:14	Recopilando credenciales
+1/12/2025 23:38:14	Recopilando inicios de sesión
+1/12/2025 23:38:14	Recopilando auditorías de servidor
+1/12/2025 23:38:15	Buscando elementos duplicados en el proyecto
+1/12/2025 23:38:15	Ha finalizado el procesamiento de los elementos duplicados
+1/12/2025 23:38:17	Finalizó la importación de la base de datos.
+1/12/2025 23:38:17	Se guardó un resumen de la importación en la siguiente ubicación: C:\Users\david.valverde\OneDrive - SPS Consultoria\Documentos\Maestria MIA\Modulo 5\NorthWindBI\Registros de importación de esquemas\NorthWindBI_20251202033750.log
+1/12/2025 23:38:17	Haga clic en Finalizar para continuar...

@@ -1,0 +1,6 @@
+C:\Users\david.valverde\OneDrive - SPS Consultoria\Documentos\Maestria MIA\Modulo 5\NorthWindBI - 1\bin\Debug\NorthWindOLTP.dacpac
+C:\Users\david.valverde\OneDrive - SPS Consultoria\Documentos\Maestria MIA\Modulo 5\NorthWindBI - 1\obj\Debug\NorthWindOLTP.sqlproj.AssemblyReference.cache
+C:\Users\david.valverde\OneDrive - SPS Consultoria\Documentos\Maestria MIA\Modulo 5\NorthWindBI - 1\obj\Debug\NorthWindBI.dll
+C:\Users\david.valverde\OneDrive - SPS Consultoria\Documentos\Maestria MIA\Modulo 5\NorthWindBI - 1\obj\Debug\NorthWindBI.pdb
+C:\Users\david.valverde\OneDrive - SPS Consultoria\Documentos\Maestria MIA\Modulo 5\NorthWindBI - 1\bin\Debug\NorthWindBI.dll
+C:\Users\david.valverde\OneDrive - SPS Consultoria\Documentos\Maestria MIA\Modulo 5\NorthWindBI - 1\bin\Debug\NorthWindBI.pdb

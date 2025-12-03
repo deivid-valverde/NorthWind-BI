@@ -5,15 +5,15 @@ SELECT Orders.ShipName, Orders.ShipAddress, Orders.ShipCity, Orders.ShipRegion, 
 	Customers.Region, Customers.PostalCode, Customers.Country, 
 	(FirstName + ' ' + LastName) AS Salesperson, 
 	Orders.OrderID, Orders.OrderDate, Orders.RequiredDate, Orders.ShippedDate, Shippers.CompanyName As ShipperName, 
-	"Order Details".ProductID, Products.ProductName, "Order Details".UnitPrice, "Order Details".Quantity, 
-	"Order Details".Discount, 
-	(CONVERT(money,("Order Details".UnitPrice*Quantity*(1-Discount)/100))*100) AS ExtendedPrice, Orders.Freight
+	"OrderDetails".ProductID, Products.ProductName, "OrderDetails".UnitPrice, "OrderDetails".Quantity, 
+	"OrderDetails".Discount, 
+	(CONVERT(money,("OrderDetails".UnitPrice*Quantity*(1-Discount)/100))*100) AS ExtendedPrice, Orders.Freight
 FROM 	Shippers INNER JOIN 
 		(Products INNER JOIN 
 			(
 				(Employees INNER JOIN 
 					(Customers INNER JOIN Orders ON Customers.CustomerID = Orders.CustomerID) 
 				ON Employees.EmployeeID = Orders.EmployeeID) 
-			INNER JOIN "Order Details" ON Orders.OrderID = "Order Details".OrderID) 
-		ON Products.ProductID = "Order Details".ProductID) 
+			INNER JOIN "OrderDetails" ON Orders.OrderID = "OrderDetails".OrderID) 
+		ON Products.ProductID = "OrderDetails".ProductID) 
 	ON Shippers.ShipperID = Orders.ShipVia

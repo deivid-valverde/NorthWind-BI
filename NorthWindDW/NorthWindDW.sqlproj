@@ -66,5 +66,6 @@
     <None Include="Scripts\DimProduct.sql" />
     <None Include="Scripts\DimTime.sql" />
     <None Include="Scripts\FactSales.sql" />
+    <None Include="Scripts\PackageConfig.sql" />
   </ItemGroup>
 </Project>
